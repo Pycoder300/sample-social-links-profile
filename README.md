@@ -1,0 +1,1 @@
+Here i have made a sample social links profile with all the assets that are provided to me by frontend mentor. It has been made with css concepts like block display, flex and hover effects that change the button color and the text when cursor is taken over them. The only problem i had was positioning the profile card to the center.
